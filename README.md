@@ -1,3 +1,5 @@
+This is a fork of the original repo for the purposes of exposing a custom build to npm
+
 ### Fabric
 
 <!-- chat, support -->
